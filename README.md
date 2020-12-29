@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning search engine.
+
 <a href="https://github.com/rosefun/SemiSupervised">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rosefun&repo=semisupervised&cache_seconds=18000&theme=radical" />
 </a>
